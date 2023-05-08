@@ -1,6 +1,6 @@
 # SSM職業分類への日本版O-NETのマッチングと応用
 
-麦山亮太・田上皓大（2023）「SSM職業分類への日本版O-NETのマッチングと応用：スキルと賃金の関連を事例に」『理論と方法』pp.XX-XX．
+麦山亮太・田上皓大（2024）「SSM職業分類への日本版O-NETのマッチングと応用：スキルと賃金の関連を事例に」『理論と方法』39(1):pp.XX-XX．
 
 https://github.com/kota-tagami/matching_onet_ssm.git
 
